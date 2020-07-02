@@ -1,0 +1,6 @@
+/Users/Carlo/Desktop/laboratorio-opcional-PastedBud/Examen2019/Examen2019/obj/Debug/Examen2019.csprojAssemblyReference.cache
+/Users/Carlo/Desktop/laboratorio-opcional-PastedBud/Examen2019/Examen2019/obj/Debug/Examen2019.csproj.CoreCompileInputs.cache
+/Users/Carlo/Desktop/laboratorio-opcional-PastedBud/Examen2019/Examen2019/bin/Debug/Examen2019.exe
+/Users/Carlo/Desktop/laboratorio-opcional-PastedBud/Examen2019/Examen2019/bin/Debug/Examen2019.pdb
+/Users/Carlo/Desktop/laboratorio-opcional-PastedBud/Examen2019/Examen2019/obj/Debug/Examen2019.exe
+/Users/Carlo/Desktop/laboratorio-opcional-PastedBud/Examen2019/Examen2019/obj/Debug/Examen2019.pdb
